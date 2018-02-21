@@ -1,10 +1,10 @@
 
-# FOODMAP
-Cardify es un pluggin que permite insertar cualquier etiqueta img que se encuentre en un div en un contenedor figure y a su vez un figcaption que se muestra al hacer hover sobre la imagen. https://mirelatv.github.io/Cardify-Pl…
+# CARDIFY
+Cardify es un pluggin que permite insertar cualquier etiqueta img que se encuentre en un div en un contenedor figure y a su vez un figcaption que se muestra al hacer hover sobre la imagen.
 
 
 ![bicis-locas-preview]
-https://github.com/mirelatv/FoodMap-Presentation/blob/master/assets/images/header1.jpg
+https://github.com/mirelatv/Cardify-Pluggin/blob/master/public/assets/images/cardify.png
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
@@ -12,13 +12,6 @@ https://github.com/mirelatv/FoodMap-Presentation/blob/master/assets/images/heade
 
 
 
-# Cardify
-
-* **Track:** _Common Core_
-* **Curso:** _JS Deep Dive: Crea tu propia librería usando JavaScript_
-* **Unidad:** _Producto final_
-
-***
 ## Descripción del proyecto
 
 ***changeImg*** es un plugin de jQuery que dado un _contenedor_ busca todas las
