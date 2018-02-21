@@ -1,3 +1,17 @@
+
+# FOODMAP
+Cardify es un pluggin que permite insertar cualquier etiqueta img que se encuentre en un div en un contenedor figure y a su vez un figcaption que se muestra al hacer hover sobre la imagen. https://mirelatv.github.io/Cardify-Pl…
+
+
+![bicis-locas-preview]
+https://github.com/mirelatv/FoodMap-Presentation/blob/master/assets/images/header1.jpg
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
+
+
+
+
 # Cardify
 
 * **Track:** _Common Core_
