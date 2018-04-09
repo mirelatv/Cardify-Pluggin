@@ -3,7 +3,7 @@
 
 Cardify es un pluggin que permite insertar cualquier etiqueta img que se encuentre en un div en un contenedor figure y a su vez un figcaption que se muestra al hacer hover sobre la imagen.
 
-![Cardify-preview](https://github.com/mirelatv/Cardify-Pluggin/blob/master/public/assets/images/cardify.png)
+![Cardify-preview](https://user-images.githubusercontent.com/32286248/38522466-5585979a-3c0e-11e8-9a03-efc484d0b2b1.png)
 
 ## Desarrollado para 
 
